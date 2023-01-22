@@ -1,3 +1,5 @@
-# Taz6_BTT_Octopus_Klipper
-This is still a work in progress, waiting on parts :), but I will update when I get around to do..., some updates, I work a lot (:
-DO NOT USE, THIS FILE IS NOT READY
+# Taz6_BTT_OctopusProH723_Klipper
+This is still a work in progress, but it is capable of printing with this hardware configuration :)
+I have printed a calibration cube, a cup, and a retraction settings test.  All printed just fine, but as usual, make sure to check the pinout of your hardware. 
+
+I will upload photos later to show my hardware placement to hopefully allow someone to better utilize this config.
