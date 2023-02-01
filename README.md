@@ -1,4 +1,4 @@
-# Taz6_BTT_OctopusProH723_Klipper_BLTouch
+# Taz6_BTT_OctopusV1.1F445_Klipper_BLTouch
 
 This is still a work in progress, but it is capable of printing with this hardware configuration :)
 I have printed a calibration cube, a cup, and a retraction settings test.  All printed just fine, but as usual, make sure to check the pinout of your hardware. 
