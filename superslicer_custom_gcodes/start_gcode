@@ -15,4 +15,4 @@ M140 S60 ; get bed heating up
 M104 S200 ; set extruder temp and wait
 M190 S60 ; wait for bed to reach printing temp
 PRIME_NOZZLE ; wipe the nozzle with the bottom left pad
-M117 AutoBots, Roll Out! ; display message
+M117 AutoBots, Roll Out!
