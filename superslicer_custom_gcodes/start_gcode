@@ -2,17 +2,17 @@ M107 ; disable fans
 G90 ; absolute positioning
 M82 ; set extruder to absolute mode
 G92 E0 ; set extruder position to 0
+M140 S60 ; get bed heating up
+M109 S180 ; set extruder temp and wait
+G1 F1000 E-3 ; retract filament 3 mm to prevent oozing
 WIPE ; clean nozzle
 G29 ; probe sequence (for auto-leveling)
-G28 ; load profile
-M104 S200 ; set extruder temp and wait
 M204 S500 ; set accel back to normal
 G1 X0 Y150 Z15 F5000 ; get out the way
 M400 ; clear buffer
-G4 S1 ; pause
+G4 S1 ; pause for buffer clear
 M117 Heating...
-M140 S60 ; get bed heating up
-M104 S200 ; set extruder temp and wait
+M109 S200 ; set extruder temp and wait
 M190 S60 ; wait for bed to reach printing temp
 PRIME_NOZZLE ; wipe the nozzle with the bottom left pad
 M117 AutoBots, Roll Out!
