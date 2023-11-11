@@ -1,1 +1,3 @@
-START_PRINT
+M109 S0
+M190 S0
+START_PRINT EXTRUDER_TEMP={first_layer_temperature[initial_extruder]} BED_TEMP={first_layer_bed_temperature[initial_extruder]}
