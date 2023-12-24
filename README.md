@@ -1,4 +1,4 @@
-![IMG20230305125419](https://user-images.githubusercontent.com/32282735/222977593-9f54be32-576e-4056-a0e1-4c27c5981424.jpg)
+![IMG20230305125419](https://raw.githubusercontent.com/FunkyNuggets007/Taz6_BTTOctopus_BLTouch_Klipper_HemeraXSRevo_CB1-PI4B/Klipper/IMG_3162.jpg)
 # Taz6_BTT_Octopus_V1.1_F445_Klipper_BLTouch_CB1+PI4B
 
 Update: Project is complete,  100% working! :)
